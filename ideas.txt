@@ -1,0 +1,26 @@
+Ludum Dare 48-Hour Game Progamming Compo #34
+
+Theme tied between 2-Button-Controls and Growing.
+
+~Possible interpretations:
+
+~~Growing:
+ -Nature/Ecosystem
+ -RPG-Style (not easy to do 2-button)
+ -Combat (RPG-Style, but again not with much variation if 2-button)
+
+~~2-Button:
+ -Pong? (lol)
+ -At a loss here. Timing/Artistic maybe (Geometry Dash or Impossible Game style maybe?)
+
+~~Combination of both themes:
+ -Katamari! (Move around and grow!)
+
+So...I think I will do something like that Katamari game I played a long time ago. You can only move.
+Two buttons allows control of turning and pressing both to move forward. Grow by picking up stuff, see
+what works, who knows.
+
+-Later note: I looked up the title of the game I had in mind, here it is: Beautiful Katamari.
+It's a game I played a good while back ago.
+
+Here it goes!
